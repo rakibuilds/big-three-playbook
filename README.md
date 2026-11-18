@@ -4,7 +4,6 @@
 [![AI Alignment](https://img.shields.io/badge/focus-AI%20alignment-blue.svg)](#what-is-this)
 [![AI Safety](https://img.shields.io/badge/focus-AI%20safety-red.svg)](#what-is-this)
 [![Sci-Fi to Real AI](https://img.shields.io/badge/inspired%20by-Asimov%20%7C%20Clarke%20%7C%20Heinlein-purple.svg)](#why-does-it-exist)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 > **TL;DR:** A practical AI alignment playbook connecting the Big Three of sci-fi (Asimov, Clarke, Heinlein) to modern AI builders and labs — with original predictions on where AI is going.
 

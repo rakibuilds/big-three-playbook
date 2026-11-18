@@ -1,8 +1,28 @@
 # Big Three Playbook
 
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![AI Alignment](https://img.shields.io/badge/focus-AI%20alignment-blue.svg)](#what-is-this)
+[![AI Safety](https://img.shields.io/badge/focus-AI%20safety-red.svg)](#what-is-this)
+[![Sci-Fi to Real AI](https://img.shields.io/badge/inspired%20by-Asimov%20%7C%20Clarke%20%7C%20Heinlein-purple.svg)](#why-does-it-exist)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+> **TL;DR:** A practical AI alignment playbook connecting the Big Three of sci-fi (Asimov, Clarke, Heinlein) to modern AI builders and labs — with original predictions on where AI is going.
+
 **An AI development & alignment playbook — dedicated to the Big Three of
 science fiction, informed by the people and companies shaping AI today,
 and driven by original predictions about where AI is going.**
+
+---
+
+## Table of Contents
+
+- [What is this?](#what-is-this)
+- [Why does it exist?](#why-does-it-exist)
+- [Who is it for?](#who-is-it-for)
+- [What's inside?](#whats-inside)
+- [A note on framing](#a-note-on-framing)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
